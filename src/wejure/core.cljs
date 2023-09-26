@@ -1,7 +1,6 @@
 (ns wejure.core
   (:require [reagent.core :as r]
             [reagent.dom :as rdom]
-            [wejure.components.testPage :refer [test-page]]
             [reitit.frontend :as reitit-f]
             [reitit.frontend.easy :as reitit-fe]
             [reitit.frontend.controllers :as reitit-fc]
